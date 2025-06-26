@@ -1,8 +1,8 @@
-# 👋 Hi there, I'm Deborah
+# 👋 Hi there, I'm Deborah Anijesudade
 
 ### 📊 Data Analyst | Excel • Power BI • SQL • Python
 
-Welcome to my GitHub profile! I'm a data enthusiast passionate about extracting meaningful insights from data and turning them into strategic decisions.
+I'm a data enthusiast passionate about extracting meaningful insights from data and turning them into strategic decisions.
 
 ---
 
