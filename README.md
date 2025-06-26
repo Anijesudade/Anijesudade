@@ -26,16 +26,16 @@ I'm a data enthusiast passionate about extracting meaningful insights from data 
 
 ---
 
-## 📁 Featured Projects
+## 📁 Projects
 
-- **📊 Sales Dashboard in Power BI**  
-  Interactive dashboard with sales KPIs, region analysis, and product performance.
+- **📊 Maji Ndogo water source analysis on Power Bi**  
+  Interactive dashboard with regional and water purity analysis and more.
 
 - **🔍 Customer Churn Analysis**  
-  Data cleaning and churn modeling using SQL and Python (logistic regression, visualization).
+  Maji Ndogo water source analysis modeling using SQL and Python (logistic regression, visualization).
 
-- **📈 Excel Financial Tracker**  
-  A personal finance tracker using dynamic tables, charts, and conditional formatting.
+- **📈 Movie Rating Analysis**  
+  An excel project using dynamic tables, charts, functions and conditional formatting.
 
 - **📦 E-commerce Data Analysis**  
   Python-based data analysis to uncover user behavior and sales insights.
