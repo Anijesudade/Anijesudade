@@ -8,41 +8,36 @@ I'm a data enthusiast passionate about extracting meaningful insights from data 
 
 ## 💡 About Me
 
-- 🎯 Data Analyst focused on business intelligence and data-driven decision making
-- 🧠 Skilled in cleaning, analyzing, and visualizing data using Python and SQL
-- 📊 Creator of dynamic dashboards in Power BI and Excel to track KPIs and trends
-- 🔁 Strong believer in automation and reproducible analysis
-- 📚 Lifelong learner with a passion for sharing knowledge
+- 🎯 **Data Analyst** passionate about business intelligence and data-driven decision-making  
+- 🧠 Experienced in cleaning, analyzing, and visualizing data with **Python** and **SQL**  
+- 📊 Developer of dynamic dashboards in **Power BI** and **Excel** to track KPIs and reveal insights  
+- 🔁 🎤 **Effective Communicator** – With a background in public speaking, teaching and stage ministrations, I present data with clarity and creativity, ensuring stakeholders gain meaningful understanding  
+- 🌍 **Globally Minded** – Open to full-time opportunities home and abroad, or **remote-first** organizations that value insight-driven decisions  
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-- **Excel**: Advanced formulas, pivot tables, dashboards
-- **Power BI**: DAX, data modeling, interactive reports
-- **SQL**: MySQL, PostgreSQL – joins, CTEs, window functions
-- **Python**: Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebooks
-- **Version Control**: Git & GitHub
+- **Excel**: Advanced formulas, pivot tables, dashboards  
+- **Power BI**: DAX, data modeling, interactive reports  
+- **SQL**: MySQL, PostgreSQL – joins, CTEs, window functions  
+- **Python**: Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebooks  
 
 ---
 
-## 📁 Projects
+## 💡 Core Skills
 
-- **📊 Maji Ndogo water source analysis on Power Bi**  
-  Interactive dashboard with regional and water purity analysis and more.
+- 📖 Data Storytelling  
+- 🗣️ Communication & Presentation  
+- 🧩 Problem Solving  
+- 🎨 Creative Collaboration
 
-- **🔍 Customer Churn Analysis**  
-  Maji Ndogo water source analysis modeling using SQL and Python (logistic regression, visualization).
+## Connect with me
+- www.linkedin.com/in/
+- anijesudadeola1@gmail.com
+  - Linkedin: 
 
-- **📈 Movie Rating Analysis**  
-  An excel project using dynamic tables, charts, functions and conditional formatting.
 
-- **📦 E-commerce Data Analysis**  
-  Python-based data analysis to uncover user behavior and sales insights.
-
-👉 Check out my [Repositories](https://github.com/yourusername?tab=repositories) to explore more.
-
----
 
 ## 📫 Connect with Me
 
