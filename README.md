@@ -32,19 +32,10 @@ I'm a data enthusiast passionate about extracting meaningful insights from data 
 - 🧩 Problem Solving  
 - 🎨 Creative Collaboration
 
-## Connect with me
-- www.linkedin.com/in/
-- anijesudadeola1@gmail.com
-  - Linkedin: 
-
-
-
 ## 📫 Connect with Me
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 📧 your.email@example.com
-- 🌍 [Portfolio Website](https://yourportfolio.com) *(optional)*
-
+- 🌐 [LinkedIn](www.linkedin.com/in/)
+- 📧 anijesudadeola1@gmail.com
 ---
 
 <p align="center">
